@@ -1,0 +1,209 @@
+{100}{}{Você vê o Razlo.}
+{101}{}{Eu lamento mas eu não posso ajudar você.}
+{102}{}{não pode ou não ira?}
+{103}{}{Razlo olha pra você por um momento e então se vira de costas.}
+{104}{}{Você parece distraught. Você esta com necessidade de assistencia?}
+{105}{}{Tandi foi sequestrada.}
+{106}{}{Hum, Tanny boo.}
+{107}{}{Tandi se foi? Isso é uma coisa terrível. Eu espero que eles achem ela.}
+{108}{}{Hmm, Tandi se foi? Eu acho isto difícil de acreditar mas talvez
+ ela fugiu com o Seth. Eu sei que eles estavam vendo um ao outro
+ ultimamente. O Aradesh sempre foi um pouco puritano, talvez
+ finalmente tenha sido demais para ela.}
+{109}{}{Hmm, eu não pensei nisso.}
+{110}{}{Eu acho que não, eu acho que ela foi sequestrada.}
+{111}{}{Talvez, eu irei falar com outras pessoas.}
+{112}{}{Que terrível! Se esse e o caso eu espero que ela não esteja ferida.
+ Quem esta procurando por ela?}
+{113}{}{Quase todo mundo.}
+{114}{}{Muitas pessoas, incluindo eu mesmo.}
+{115}{}{Eu espero que ela seja achada antes que seja tarde demais.}
+{116}{}{Se ela esta ferida poderia ser ruim. Aqui, leve estes . . .
+ Eu torço que você não precisara deles.}
+{117}{}{Eu espero que a Tandi volte em breve. O Aradesh deve estar se
+ sentindo terrível agora.}
+{118}{}{Eu ouvi que você ajudou a salvar a Tandi. Parabens
+ e obrigado. A qualquer hora que você precisar de cura venha aqui.}
+{119}{}{Minha grief não tem fim. Tandi, a unica criança do meu
+ bom amigo se foi. Eu não posso trabalhar agora.}
+{120}{}{Eu sou o Razlo. Eu posso ajudar você?}
+{121}{}{Agora não mas foi bom encontrar você.}
+{122}{}{Eu preciso de cura.}
+{123}{}{Hnngh!}
+{124}{}{Hmmm. Eu acho que eu ja vi Brahmin com mais celulas cerebrais
+ do que você. Bem, vamos ver se você esta ferido.}
+{125}{}{Bem, você parece bem pra mim. Talvez mais tarde então?}
+{126}{}{Vamos ver aqui.}
+{127}{}{Eu ja dei a você tanto quanto eu posso. Boa sorte.}
+{128}{}{Hmmm, eu não gosto da sua aparencia. Eu espero que você tenha vindo
+ para negócios e que saia rapidamente...}
+{129}{}{Não há necessidade de ficar na defensiva, eu só estou olhando.}
+{130}{}{Me ajude! Eu preciso de um pouco de cura.}
+{131}{}{Ola de novo. Como eu posso ser de ajuda?}
+{132}{}{Ola de novo. So passando.}
+{133}{}{Eu preciso de cura.}
+{134}{}{Ug!}
+{135}{}{Foi bom ver você de novo. Tenha um bom dia.}
+{136}{}{Claro. É você de novo. Agora o que?}
+{137}{}{Nada.}
+{138}{}{Eu preciso de cura.}
+{139}{}{Luki!}
+{140}{}{Claro que você precisa.}
+{141}{}{Eu posso ajudar você?}
+{142}{}{Não.}
+{143}{}{Eu preciso de cura.}
+{144}{}{Eu fui envenenado!}
+{145}{}{O que você sabe sobre os Radscorpions?}
+{146}{}{Eu tenho uma amostra do veneno do Radscorpion, você
+ consegue fazer alguma coisa com ela?}
+{147}{}{Luki!}
+{148}{}{Lamento, eu não posso curar quaisquer envenenamentos. Eu
+ não tenho os ingredientes apropriados pra fazer um antidoto.}
+{149}{}{Aqui, vamos ver.}
+{150}{}{Sim, como eu pensava. Deixe-me pegar a cura.}
+{151}{}{Você parece bem agora. Seja cuidadoso no futuro.}
+{152}{}{Passe de novo mas fique saudavel da proxima vez.}
+{153}{}{Não muito. Eles parecem ser versoes extremamente maiores
+ do escorpiao imperador norte-americano. Ao contrario do meu
+ conhecimento medico o veneno deles ficou mais potente e não
+ diluido como eu esperava. O Seth tem caçado eles o que
+ ajuda alguns dos meus testes.}
+{154}{}{É como uma criatura tão grande pode ser possível
+ pela evoluçao natural ou até mesmo pela mutaçao
+ induzida pela radiaçao esta alem de mim.}
+{155}{}{Obrigado.}
+{156}{}{Você parece bem educado. O que você esta fazendo aqui?}
+{157}{}{Algo mais?}
+{158}{}{Eles parecem ser sensiveis a luz. Noturnos. Se eu
+ pudesse obter uma amostra do veneno deles, especialmente
+ do saco de produçao do veneno localizado na cauda deles,
+ eu poderia criar um antidoto.}
+{159}{}{Obrigado.}
+{160}{}{O Dr. Morbid em Junktown me ensinou um pouco. É só
+ porque vivemos em cabanas de pedra não quer dizer que nos
+ somos menos inteligentes ou educados. Tenha um bom dia.}
+{161}{}{Deixe-me ver o saco! Sim, eu posso fazer algo
+ com isto.}
+{162}{}{Aqui, leve isto como uma amostra gratis. Parece
+ fucionar bem contra as ferroadas dos radscorpions,
+ claro, mas ele mostra muito potencial como um
+ antidoto geral e cura do veneno.}
+{163}{}{Esta tarde. Volte de manha.}
+{164}{}{Mas eu preciso da sua ajuda.}
+{165}{}{Eu estou tentando matar alguns Radscorpions. Você
+ tem algo pra ajudar?}
+{166}{}{Eu estou procurando a Tandi. Você pode ajudar?}
+{167}{}{Hnn.}
+{168}{}{Hnn?! O que é isso? Otimo, eu sou acordado pela grande
+ besta resmungante do norte. Volte de manha.}
+{169}{}{Você esta ferido?}
+{170}{}{Sim.}
+{171}{}{Não.}
+{172}{}{Você sera se você me impedir de dormir. Agora
+ volte de manha.}
+{173}{}{Grande Brahmin! Por que você não disse?}
+{174}{}{Uhhh. Eu fiz...}
+{175}{}{Você mal esta ferido. Eu sugiro uma boa noite de sono e
+ um pouco de descanso; você se curara naturalmente com o tempo.}
+{176}{}{Você mal esta ferido seu fracote. Volte de manha.}
+{177}{}{Ouch, isso parece um pouco doloroso. Isso custara $25.}
+{178}{}{Certo, aqui vai você.}
+{179}{}{Eu não tenho dinheiro o bastante.}
+{180}{}{Ah Grande Brahmin! Isso e muito, muito serio.
+ Custara $50.}
+{181}{}{Certo, aqui vai.}
+{182}{}{Eu não tenho dinheiro o bastante.}
+{183}{}{Como você ainda pode estar caminhando?! Isto parece
+ extremamente serio. Nós precisaremos de algumas preces
+ especiais pra esta e muita sorte, sem mencionar $100.}
+{184}{}{Certo, aqui vai.}
+{185}{}{Eu não tenho dinheiro o bastante.}
+{186}{}{Você não tenho dinheiro o bastante! Eu lamento mas
+ minha etica de trabalho não me permite cura de graça você
+ sabe. Volte quando você tiver dinheiro o bastante.}
+{187}{}{Você pode pegar algo em troca?}
+{188}{}{Obrigado por nada.}
+{189}{}{Lamento, hoje não.}
+{190}{}{Por que eu seria capaz de ajudar você a matar os Radscorpions?
+ Eu sou um doutor, não um guerreiro. Pra isso você deveria ver o
+ Aradesh ou até mesmo a Tandi, ou o namorado dela Seth. Me
+ deixe.}
+{191}{}{Eu preciso de algo pro veneno deles.}
+{192}{}{Se eu tivesse uma amostra do veneno deles,
+ eu poderia criar uma cura.}
+{194}{}{Eu acho que não, eu acho que ela foi sequestrada.}
+{195}{}{Talvez, eu irei falar com outras pessoas.}
+{196}{}{Isto levara um pouco de tempo. Venha, relaxe nas
+ costa. Você pode ter uma leve dor de cabeça do suco
+ junja tambem. Vem, vem...}
+{197}{}{Eu ja dei a você tanto quanto eu posso. Boa sorte.}
+{300}{}{Você ganha 250 pontos de experiencia por ajudar a fazer o antidoto.}
+{301}{}{Certo, mim dar?}
+{302}{}{Nunga.}
+{303}{}{Escorpi, Escorpi?}
+{304}{}{Meu dar isto?}
+{305}{}{Que tal uma cauda de Radscorption ao inves disto?}
+{306}{}{Me deixa ver o saco! Sim, eu posso fazer algo com
+ isto assim como curar você por este otimo presente.}
+{307}{}{Isto levara um pouco de tempo. Venha, relaxe lá atras
+ enquanto eu trabalho com a bolsa. Você pode ter uma leve dor
+ de cabeça do suco junja tambem. Vem, vem...}
+{308}{}{Por favor não pegue minhas coisas.}
+{980}{}{Não sei nada sobre isso.}
+{981}{}{Desculpe. Não faço ideia.}
+{982}{}{Nunca ouvi falar.}
+{1000}{}{Khans}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Agua}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Areias}
+{1011}{}{Buy|Buying|Sell|Selling|Barter|Trade|Trading|Business|Bartering|Comprar|Vender|Trocar|Negociar|Negocio|Comercio|Barganha}
+{1012}{}{Wasteland|Wastes|Waste|Badland|Badlands|Waste Land|Outside|Ermo|Terra Devastada|Devastada|La fora|Fora}
+{1013}{}{Direction|Directions|Whereto|Where to|Direcao|Direcoes|Onde|Para onde|Caminho}
+{1014}{}{Stealing|Thief|Crime|Criminals|Thieves|Thiev|Roubo|Ladrao|Ladroes|Furto|Crime|Criminosos}
+{1015}{}{Scorpions|Scorpion|Rad Scorpion|Radscorpions|Radscorpion|Escorpioes|Escorpiao|Radscorpioes}
+{1016}{}{Vipers}
+{1017}{}{Brahmin|Brahmins|Brahma|Vaca}
+{1018}{}{Plains|Planicie|Planicies|Campina|Campinas}
+{1019}{}{Job|Work|Task|Money|Trabalho|Emprego|Tarefa|Servico|Dinheiro|Grana}
+{1020}{}{Ian}
+{1021}{}{Vault 15|Vault|Vault15}
+{1100}{}{Eles são um grupo sem lei que fingem ser algumas pessoas
+ do passado distante.}
+{1101}{}{Ele lidera os Khans. Ele e um dos homens mais perigosos que
+ ja puseram os olhos em Shady Sands. Ele lidera os clans dos
+ saqueadores com um pulso forte.}
+{1102}{}{Sao 4-6 dias para o sudoeste. Bom comercio ocasionalmente mas
+ mais frequentemente do que não eles tentam nos enganar.}
+{1103}{}{Você esta de pe nela.}
+{1104}{}{Muito mais longe ao sul do que Junktown. O Hub é a maior cidade
+ do qual eu ouvi. Deve haver umas mil pessoas lá pelo menos.}
+{1105}{}{Lamento, eu não posso ajudar você.}
+{1106}{}{Ela é a filha do Aradesh. Alguns dizem que ela poderia nos liderar
+ mas ela deve aprender a controlar seu temperamento.}
+{1107}{}{Ele e o lider da nossa comunidade e um verdadeiro heroi. Você
+ consegue sempre acha-lo no trabalho no salao da comunidade.}
+{1108}{}{Ele trabalha com o Aradesh pra ter certeza que nos estamos seguros.}
+{1109}{}{Esse sou eu. Eu sou o doutor de Shady Sands.}
+{1110}{}{Você esta de pe nela.}
+{1111}{}{Acho que um dos comerciantes ainda está na cidade. Você deveria procurá-lo no lado leste.}
+{1112}{}{Cuidado com os rad scorpions se for lá pra fora.}
+{1113}{}{Bom, não tem muita coisa. A guarita fica à direita do portão. Você vai achar o Seth lá. Nossas plantações ficam no lado leste. O curral dos brahmin também é perto de lá.}
+{1114}{}{O Seth e os guardas estão sempre atentos para proteger nossa vila.}
+{1115}{}{Cuidado com a cauda deles. O veneno pode ser letal se não for tratado.}
+{1116}{}{Pra falar a verdade, eles me assustam mais que os Khans.}
+{1117}{}{Ah, tínhamos mais brahmin no passado, mas perdemos alguns em ataques de saqueadores nas planícies há poucos meses.}
+{1118}{}{Logo ali fora da nossa vila. É pra onde levamos os brahmin pra pastar.}
+{1119}{}{Você deveria falar com o Aradesh, se ainda não falou.}
+{1120}{}{O Ian é um dos nossos guardas. Ele foi ferido quando saqueadores atacaram a caravana dele e está conosco desde então.}
+{1121}{}{O Vault 15 é de onde a maioria de nós veio.}
+{2000}{}{Aqui está uma cauda de radscorpion.}
+{2001}{}{Aqui estão }
+{2002}{}{ caudas de radscorpion.}
+{2003}{}{Deixa pra lá.}

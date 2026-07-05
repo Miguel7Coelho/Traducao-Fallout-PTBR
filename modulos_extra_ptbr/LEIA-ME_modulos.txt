@@ -1,0 +1,18 @@
+Módulos extras do Fallout CE traduzidos para PT-BR
+==================================================
+
+Estes são os módulos que faltavam (todos exceto fo1_lang_brazilian, que já
+estava traduzido). Traduzidos do inglês, seguindo o glossário e usando a
+tradução tcheca como referência de estrutura. Codificação ISO-8859-1, CRLF.
+
+Cada pasta é um módulo independente do jogo; coloque-a junto do fo1_lang_brazilian.
+
+- Appearance/               10 arquivos (AppRace/AppStyle dos 6 presets de personagem)
+- brazilian/Translations.ini  strings do sfall (mensagens de UI, ordens de grupo, etc.)
+- fo1_alternative_Junktown_Endings/  finais alternativos de Junktown (NAR_24, NAR_25)
+- fo1_new_premades/         bios dos personagens pré-criados (combat, stealth, diplomat)
+- fo1_robodog/              diálogo do Robodog (DOGMEAT.msg)
+
+Termos do glossário mantidos em inglês: Vault, Dogmeat, Junktown, Killian,
+Super Stimpak (super stim). Overseer -> Supervisor; wasteland -> ermo;
+"iguana on a stick" -> "iguana no espeto" (consistente com o pacote principal).
