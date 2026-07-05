@@ -1,0 +1,32 @@
+{100}{}{Metabolismo Rápido}
+{101}{}{Brigão}
+{102}{}{Estrutura Delicada}
+{103}{}{Uma Mão}
+{104}{}{Finesse}
+{105}{}{Kamikaze}
+{106}{}{Mão Pesada}
+{107}{}{Tiro Rápido}
+{108}{}{Banho de Sangue}
+{109}{}{Azarado}
+{110}{}{Bom Samaritano}
+{111}{}{Drogado}
+{112}{}{Drogado Resistente}
+{113}{}{Pessoa Noturna}
+{114}{}{Habilidoso}
+{115}{}{Talentoso}
+{200}{}{Sua taxa metabólica e duas vezes a normal.  Isto significa que você e menos resistente a radiação e veneno, mas seu corpo cura mais rapido.}
+{201}{}{Um pouco mais lento, mas um pouco maior.  Você pode não acertar tão frequentemente, mas eles sentirão quando você o fizer!  O total dos seus pontos de ação são reduzidos, mas sua força e aumentada.}
+{202}{}{Você não é tão grande quanto os outros Moradores da Vault, mas isso nunca deixou você mas isso nunca retardou você.  Você não consegue carregar tanto, mas você e mais ágil.}
+{203}{}{Uma de suas mãos e muito dominante.  Você se excede com armas de mao única, mas armas de duas mãos causam um problema.}
+{204}{}{Seus ataques mostram muita destreza.  Você não faz tanto dano, mas você causa mais acertos criticos.}
+{205}{}{Ao não prestar atenção a quaisquer ameaças, você pode agir muito mais rápido num turno. Isto reduz sua classe de arm. pra só o que você esta usando, mas você sequencia muito mais rapido num turno de combate.}
+{206}{}{Você bate mais forte, não melhor.  Seus ataques são muito brutais, mas faltam destreza.  Você raramente faz um bom critico, mas você sempre faz mais dano corpo-a-corpo.}
+{207}{}{Você não tem tempo para mirar para um ataque mirado, porque você ataca duas vezes mais rápido do que as pessoas normais.  Custa a você um ponto a menos de ação para usar uma arma.}
+{208}{}{(Bagunça Sangrenta) Por alguma estranha reviravolta do destino, as pessoas ao redor de você morrem violentamente.  Você sempre vê o pior modo como uma pessoa pode morrer.}
+{209}{}{A coisa boa e todos ao redor de você tem mais falhas criticas em combate, a coisa ruim e que você também!}
+{210}{}{Você estudou técnicas menos combativas conforme você estava crescendo. Suas técnicas de combate começam num nível mais baixo, mas Primeiros Socorros, Doutor, Discurso e Permutacao são substancialmente melhoradas.}
+{211}{}{(Dependente de Chems) Você fica viciado mais facilmente em chems. Sua chance de ser viciado pelo uso de chems e duas vezes a normal, mas você se recupera mais rapido dos seus efeitos prejudiciais.}
+{212}{}{(Resistência a Chems) Chems só afetam você pela metade do normal, mas sua chance de ficar viciado e também apenas 50% do normal.}
+{213}{}{Como um pessoa noturna, você esta mais acordado quando o sol desce.  Sua Inteligencia e Percepção são melhoradas a noite, mas entorpecidos durante o dia.}
+{214}{}{Como você passou + tempo melhorando suas técnicas que uma pessoa normal, você começa com melhores níveis nas técnicas. A parte ruim e que você não ganha tantas habilidades extras. Você ganhara um benefício a 4 niveis.}
+{215}{}{Você tem mais habilidades inatas que a maioria, então você não passou tanto tempo afiando suas técnicas. Suas estat. primarias são +1, mas você perde 10% em todas as técnicas ao começar e recebe 5 pts menos de técnica por nível.}

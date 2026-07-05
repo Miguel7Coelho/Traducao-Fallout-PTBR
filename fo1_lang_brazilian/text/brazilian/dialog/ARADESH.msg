@@ -1,0 +1,313 @@
+{100}{}{Você vê o Aradesh.}
+{101}{Ara_1g}{Saudações, andarilho. Por favor não fique ofendido se
+ os cavalheiros lhe parecem rudes. Como Dharma disse, 'Tempos
+ difíceis douram as costas humanas'. Quais seriam seus negócios
+ em Shady Sands?}
+{102}{Ara_1n}{Saudações. Quais seriam seus negócios em Shady Sands?}
+{103}{Ara_1b}{Nós não falamos muito com estranhos. Quais são seus
+ negócios em Shady Sands?}
+{104}{}{Eu sou de uma pequena vila a oeste daqui. Eu estou apenas
+ explorando e não represento mal a vocês.}
+{105}{}{O que é isso para você?}
+{106}{}{Minhas razões são só minhas.}
+{107}{}{Eu sou de uma vault a oeste. Meu povo esta morrendo
+ de sede e eu preciso achar um chip purificador de água
+ para eles sobreviverem.}
+{108}{}{Eu estou salvando um povo inteiro da destruição!}
+{109}{}{Shady Sands? Whoops, eu estou perdido! Eu sairei agora.}
+{110}{}{Hã?}
+{111}{Ara_2}{Eu não sei de nenhuma vila a oeste.}
+{112}{}{Você esteve nas montanhas a oeste daqui?}
+{113}{}{Então?}
+{114}{}{Você esta dizendo que você conhece cada local daqui
+ até o oceano?}
+{115}{}{Eu tenho certeza que você esteve em muitos lugares, mas você deve ter
+ perdido minha minúscula vila.}
+{116}{Ara_3}{Ah, bem, para meu arrependimento, eu não perdi. O que traz a
+ pergunta, como você fez aquela passagem?}
+{117}{}{Foi bem difícil, mas eu a fiz.}
+{118}{}{O que é isso para você?}
+{119}{}{Olha, tudo que eu queria era alguns suprimentos e coisas úteis,
+ mas eu irei felizmente a outro lugar.}
+{120}{}{Eu não preciso responder a você.}
+{121}{Ara_4}{Sim, hmmm, sim, sim. sim. Eu acreditarei em você...por agora. Mas
+ nós não confiamos facilmente, especialmente naqueles que poderiam ser perigosos.
+ Saiba que Seth e eu estaremos observando você.}
+{122}{Ara_5}{É minha cidade, andarilho. Você deve responder minhas perguntas
+ ou sair. Isto não é uma questão de escolha.}
+{123}{}{Eu não tenho que dizer nada a você.}
+{124}{}{Eu não represento nenhum mal a você, mesmo.}
+{125}{}{Não se preocupe. Eu estou saindo.}
+{126}{Ara_6}{Você é bastante insolente. Eu acredito que você deveria sair. Não
+ retorne. Você não será bem-vindo.}
+{127}{Ara_7}{Então que seja, andarilho. O Seth mostrara o caminho da saida pra você.}
+{128}{Ara_8}{Você deve me achar bem crédulo, andarilho. Você
+ conquistou as montanhas por si próprio?}
+{129}{}{Não importa como eu penso. É verdade que eu vim
+ das montanhas.}
+{130}{}{Não, apenas estúpido.}
+{131}{Ara_9}{Como Dharma disse, 'Cuidado é vida em tempos difíceis'.
+ Sua origem não é a questão. Sua intenção é.}
+{132}{}{Certo.}
+{133}{Ara_9A}{Eu deixarei você passar, mas saiba disto: Seth e eu
+ observaremos você muito, muito de perto. Nem ao menos considere
+ trazer problemas aqui.}
+{134}{Ara_10}{É mante-las você pode. Mas esta não é uma cidade de
+ hospitalidade aberta. Se você deseja isso, vá pra Junktown. Você
+ pode entrar, mas saiba que nós temos nossos olhos em você.}
+{135}{Ara_11}{Uma vault. Como eu confiarei em você, andarilho, quando
+ você não é honesto comigo?}
+{136}{}{Não, honestamente, eu venho de uma vault!}
+{137}{}{A vault e . . . o nome da minha vila.}
+{138}{}{Você esta certo, eu estava mentindo.}
+{139}{Ara_12}{Hmmm, sim, sim, sim. Então me diga desta vault.}
+{140}{}{Bem . . . a vault é realmente o nome da minha cidade. Nós
+ a nomeamos assim porque ela esta entre dois grandes penhascos.}
+{141}{}{É um grande lugar construido numa montanha longe a oeste.
+ Meu povo tem estado lá pelos ultimos 80 anos.}
+{142}{}{Por que você quer saber?}
+{143}{Ara_13}{Andarilho, Eu acreditarei em você . . . por agora. Você pode entrar
+ em Shady Sands, mas esteja avisado que cada movimento seu será observado.}
+{144}{Ara_14}{Eu não serei enganado, andarilho.}
+{145}{}{Eu não tenho que dizer nada a você.}
+{146}{}{Eu não represento nenhum mal a você, mesmo.}
+{147}{}{Não se preocupe. Eu estou saindo.}
+{148}{Ara_15}{Hmmm. Você pode entrar. Mas fique longe de problemas.}
+{149}{}{O que você pode me dizer sobre as outras cidades por aqui?}
+{150}{}{O que esta acontecendo por aqui?}
+{151}{}{Obrigado. Tchau.}
+{152}{Ara_17}{Saudações de novo, jovem andarilho. Eu espero que sua estadia aqui tenha sido agradavel.}
+{153}{}{Foi otima. Eu posso fazer algumas perguntas pra você?}
+{154}{}{Ela foi. Mas eu tenho que correr.}
+{155}{}{Se você gosta de esgotos.}
+{156}{}{Nã-hã.}
+{157}{Ara_18n}{Saudações. Com o que eu posso ajudar você neste bom dia?}
+{158}{Ara_18b}{Há algo que você quer?}
+{159}{}{Você pode me dizer algo sobre Shady Sands?}
+{160}{}{Eu estava imaginando se eu podia fazer algumas perguntas pra você.}
+{161}{}{Nada, mesmo, eu estava apenas saindo.}
+{162}{}{Nã-ã.}
+{163}{Ara_19}{Certamente. O que você deseja saber?}
+{164}{Ara_19b}{Você pode perguntar, mas por favor apresse-se. Há usos mais importantes pro meu tempo.}
+{165}{}{O que você pode me dizer sobre as outras cidades por aqui?}
+{166}{}{O que esta acontecendo por aqui?}
+{167}{}{Obrigado. Tchau.}
+{168}{Ara_20g}{Ah. Jornadas felizes, andarilho.}
+{169}{Ara_20n}{Tchau.}
+{170}{Ara_20b}{Eu certamente espero que sim.}
+{171}{Ara_21}{Dharma disse, 'Um homem e sua rebelde lingua são em breve separados'. Volte
+ quando você tiver aprendido algumas maneiras.}
+{172}{Ara_22}{Isso e o bastante, andarilho. Seth mostrara a você o caminho
+ pra fora da cidade. Não retorne. Você não será bem vindo.}
+{173}{Ara_23g}{Shady Sands e muito como uma familia, uma que se mantem
+ para si mesma.}
+{174}{Ara_23b}{Nós somos uma comunidade muito protetora. Como Dharma disse,
+ 'Muitos paus podem ser quebrados. O fardo não.'}
+{175}{}{Quais tipos de coisas vocês tem por aqui?}
+{176}{}{Interessante. Há quaisquer outras cidades por aqui?}
+{177}{}{Que bonitinho. Bem, melhor eu ir.}
+{178}{Ara_24}{Os jardins estão no lado sul. Os currais dos brahmins estão ao
+ norte, embora o cheiro e, eu temo, bastante intenso nesta epoca do ano.}
+{179}{}{Algo mais?}
+{180}{Ara_24a}{Nós somos pequenos e auto-suficientes então há pouco mais
+ a dizer.}
+{181}{}{Obrigado. Eu posso fazer mais algumas perguntas pra você?}
+{182}{}{Obrigado. Tchau.}
+{183}{Ara_24b}{É um lugar pequeno. Você tem pés.}
+{184}{}{Obrigado. Eu posso fazer mais algumas perguntas pra você?}
+{185}{Ara_25b}{Dharma disse, 'Não preste atenção ao chamado do lobo quando a raposa esta invadindo
+ a casa das galinhas.'}
+{186}{Ara_25g}{Junktown esta a sul daqui, embora há pouco no caminho
+ da visitação. Por estorias, eu estou certo de que há cidades ao
+ sul daquilo.}
+{187}{}{Obrigado. Eu . . . Eu posso fazer mais algumas perguntas pra você?}
+{188}{Ara_26}{É um tempo silencioso, grato.}
+{189}{}{Soa . . . entediante.}
+{190}{}{Bem, então, eu posso fazer mais algumas perguntas pra você?}
+{191}{}{Bom. Esperançosamente ficara desse jeito por algum tempo.}
+{192}{Ara_27}{Sim. Nós gostamos desse jeito.}
+{193}{}{O que você pode me dizer sobre as outras cidades por aqui?}
+{194}{}{O que esta acontecendo por aqui?}
+{195}{}{Obrigado. Tchau.}
+{196}{Ara_28}{Ah minha nossa, sim. Grandes grupos de radscorpions estão
+ matando nossas manadas. Nós não sabemos de onde eles são e não
+ importa quantos nos matamos, há sempre mais!}
+{197}{}{Continue.}
+{198}{Ara_28a}{É agora os monstros estão atacando meu povo! Razlo esta
+ tentando achar uma cura para o veneno deles, mas eu não tenho certeza
+ de como vai.}
+{199}{}{Bem, eu ajudarei você a se livrar destas coisas!}
+{200}{}{Eu posso ajudar você por um preço.}
+{201}{}{Isso é terrível. Eu posso fazer mais algumas perguntas pra você?}
+{202}{Ara_29}{Ummm, sim, sim, sim, sim, sim! Por favor fale com o Razlo.
+ Ele possui de longe mais informação sobre estas criaturas do que eu.}
+{203}{Ara_30}{Como Dharma disse, 'Aqueles que tendem o sua proprio rebanho,
+ conhecem o pastor.'}
+{204}{}{Eu sei que é difícil para você confiar, mas eu gostaria
+ de ajudar.}
+{205}{}{Sua escolha. Eu posso fazer mais algumas perguntas pra você?}
+{206}{Ara_30a}{Por favor se apresse e nós livre daqueles radscorpions!}
+{207}{Ara_31}{As coisas estão muito mais seguras agora. Razlo tem estado
+ trabalhando numa cura para o veneno do radscorpion, e com isso nos
+ devemos ser capazes de enfrentar o que restou deles.}
+{208}{}{Não foi nada. Eu posso fazer mais algumas perguntas pra você?}
+{209}{}{Você não precisa se preocupar mais. Eu destrui o ninho.}
+{210}{Ara_32}{Você é verdadeiramente um heroi! Saiba que o povo de Shady
+ Sands esta muito agradecido.}
+{211}{}{Obrigado. Eu posso fazer mais algumas perguntas pra você?}
+{212}{}{Obrigado. Tchau!}
+{213}{Ara_33}{Se você consegue me entender, por favor tente achar minha
+ filha.}
+{214}{Ara_35}{Desde que você trouxe minha Tandi de volta para mim, as coisas estão
+ bastante boas. Minha gratidão eterna a você, andarilho.}
+{215}{}{O que você pode me dizer sobre as outras cidades por
+ aqui?}
+{216}{}{O que esta acontecendo por aqui?}
+{217}{}{Obrigado. Tchau.}
+{218}{Ara_36}{Sim, sim. Umm. Tenha uma boa estada.}
+{219}{Ara_37}{Ahh, andarilho. Como vai a busca pela minha filha?}
+{220}{}{Lamento, mas eu não achei ela. Eu a acharei.}
+{221}{}{Eu lamento, mas ela esta morta.}
+{222}{}{Duh-nada.}
+{223}{}{Lamento mas eu não achei ela. Eu a acharei.}
+{224}{}{Lento, mas eu estou fazendo algum progresso. Eu posso fazer
+ mais algumas perguntas pra você?}
+{225}{}{Guunngggg!}
+{226}{Ara_37a}{Obrigado a você por tentar. Por favor me deixe com o meu luto.}
+{227}{Ara_38}{Possam meus pensamentos serem asas para os seus pés. Por favor apresse-se.}
+{228}{Ara_39}{Gracas a Deus que você veio! Eu estou em desesperada
+ necessidade de assistencia. Minha filha, Tandi, esta desaparecida.
+ Eu não sei o que fazer!}
+{229}{}{Você tentou salva-lá?}
+{230}{}{Uhn?}
+{231}{Ara_39a}{Meu povo não é treinado nisto. Tres patrulhas já
+ sairam para procurar, mas nenhuma retornou. Você me ajudara?}
+{232}{}{Certo. Quem poderia te-lá levado?}
+{233}{}{Eu o farei . . . por um preço.}
+{234}{}{Eu lamento, mas eu tenho outras coisas que eu tenho que fazer.}
+{235}{Ara_40}{Seth e eu acreditamos que um dos clas dos saqueadores é
+ responsável - retribuição pela nossa resistência a eles. Leve esta
+ lança. Ela foi achada aonde minha filha foi vista pela ultima
+ vez.}
+{236}{}{Certo, eu verificarei.}
+{237}{Ara_40A}{Por favor, fale com o Seth. Ele sabe muito a respeito
+ destes saqueadores. É vá com Deus, andarilho.}
+{238}{Ara_41}{Claro, eu recompensarei você. Traga ela e você
+ recebera 500 em Hub Script. Você me ajudara?}
+{239}{}{Certo. Quem poderia te-lá levado?}
+{240}{}{Ah . . . não obrigado. Eu tenho outra coisa de que eu tenho
+ que tomar conta.}
+{241}{Ara_42}{Como Dharma disse, 'Enquanto você esta fora caçando os
+ lobos, não traga o leao para seu éden.' Se você não ajudara,
+ você deve sair daqui.}
+{242}{Ara_43}{Eu estarei para sempre em seu debito pela sua coragem e
+ bravura, andarilho. Aqui está sua recompensa.}
+{243}{}{Obrigado. Eu posso fazer mais algumas perguntas pra você primeiro?}
+{244}{}{Obrigado.}
+{245}{Ara_44}{Até que nós nos encontremos de novo, meu amigo. Possa a água que você achar
+ no deserto não refletir você no escuro.}
+{246}{Ara_45}{O que você esta fazendo? Ponha isso de volta de uma vez!}
+{247}{Ara_46}{Isso não é seu. Por favor não o leve.}
+{248}{Ara_47}{Pare com isso de uma vez!}
+{249}{Ara_48}{O que você esta fazendo aqui? Eu estou descansando, volte de manha!}
+{250}{Ara_49}{Eu sou ele. Eu lidero esta cidade humilde de Shady Sands.}
+{251}{Ara_49A}{Dharma era um grande homem religioso. Você faria bem em
+ escutar de perto os seus dizeres.}
+{252}{Ara_50}{Ela é minha filha. É ela que faz esta vida difícil
+ ter valor de viver.}
+{253}{Ara_51}{Hmm, sim, sim. Razlo e nosso doutor. Se isto prega você,
+ ele pode curar. Eu apostaria que ele esta apenas um pouco
+ ao norte daqui neste momento.}
+{254}{Ara_52}{Um bom homem jovem, Seth. Capitão dos nossos guardas. Ele
+ esta provavelmente na Casa dos Guardas.}
+{255}{Ara_53}{Uma mulher maravilhosa. Ela acabou de celebrar seu sexagesimo
+ aniversario! Ela passa muito tempo com o Razlo, enchendo seu ouvido com
+ o estorias do verdadeiro tesouro.}
+{256}{Ara_54}{Ummm, um, um. Muito ruim. Há dois bandos de saqueadores
+ que nós conhecemos. Eles chamam a si mesmos de os Vipers e
+ os Khans.}
+{257}{Ara_55}{Seja muito cuidadoso com tais como estes. Saqueadores que são
+ fanaticamente religiosos podem ser bastante perigosos. Ninguem
+ aqui conhece a base deles.}
+{258}{Ara_56}{Umm, sim, sim. Os Khans são mais desagradáveis do que os Vipers,
+ deixe-me dizer a você. Estes barbaros atacam do
+ sudeste.}
+{259}{Ara_57}{Criaturas mas, eles são. Seja cuidadoso com a cauda deles.
+ O veneno deles pode ser letal se não tratado.}
+{260}{Ara_58}{Sim, sim. sim. É um rumor de um monstro criado
+ durante a Guerra.}
+{261}{}{}
+{262}{Ara_60}{Junktown esta a sul daqui. Os mercadores dela ocasionalmente
+ vem negociar, mas não frequentemente.}
+{263}{Ara_61}{Os Vipers e Khans ambos usam lanças. Nós sabemos disto pelos
+ ataques deles.}
+{264}{Ara_62}{Você o achara na frente da cidade. Seth provavelmente estara lá.}
+{265}{Ara_63}{Ninguem sabe ao certo, mas os grupos parecem estar
+ vindo do nordeste.}
+{266}{Ara_64}{Eu não sei.}
+{267}{Ara_65}{Eu não consigo realmente dizer o que eu ouvi sobre isso.}
+{268}{Ara_66}{Hm, não. Não, eu não ouvi sobre isso.}
+{269}{Ara_67}{Como eu disse . . .}
+{270}{Ara_68}{Conforme eu mencionei mais cedo . . .}
+{271}{Ara_69}{Como eu disse . . .}
+{272}{Ara_70}{Como eu disse a você antes . . .}
+{273}{Ara_71}{Eu não repetirei a mim mesmo tão frequentemente para fazer a
+ mim mesmo soar estúpido. Por favor escute da proxima vez.}
+{274}{Ara_72}{Eu não ficarei de pe aqui como uma vela falando repetidamente simplesmente
+ porque você não consegue escutar.}
+{275}{Ara_73}{Vá falar com o Seth a respeito disso. Ele sabera mais do que eu.}
+{276}{}{}
+{277}{}{Eu não desperdicarei meu tempo com forasteiros traicoeiros.}
+{278}{}{Aradesh está furioso e se recusa a continuar falando com você.}
+{980}{Ara_64}{Eu não sei.}
+{981}{Ara_65}{Eu não consigo realmente dizer que eu ouvi sobre isso.}
+{982}{Ara_66}{Hm, não. Não, eu não ouvi sobre isso.}
+{1000}{}{Aradesh}
+{1001}{}{Dharma}
+{1002}{}{Tandi}
+{1003}{}{Razlo}
+{1004}{}{Saqueadores}
+{1005}{}{Vipers}
+{1006}{}{Khans}
+{1007}{}{Escorpioes}
+{1008}{}{Garra}
+{1009}{}{Junktown}
+{1010}{}{Lanca}
+{1011}{}{Estacao}
+{1012}{}{Covil}
+{1013}{}{Escorpiao}
+{1014}{}{Torre}
+{1015}{}{Seth}
+{1100}{Ara_49}{Eu sou ele. Eu lidero esta cidade humilde de Shady Sands.}
+{1101}{Ara_49A}{Dharma era um grande homem religioso. Você faria bem em
+ escutar de perto os seus dizeres.}
+{1102}{Ara_50}{Ela é minha filha. É ela que faz esta vida difícil
+ ser de valor de viver.}
+{1103}{Ara_51}{Hmm, sim, sim. Razlo e nosso doutor. Se isto prega você,
+ ele pode curar. Eu apostaria que ele esta apenas um pouco
+ ao norte daqui neste momento.}
+{1104}{Ara_54}{Ummm, um, um. Muito ruim. Há dois bandos de saqueadores
+ que nos conhecemos. Eles chamam a si mesmos de os Vipers e
+ os Khans.}
+{1105}{Ara_55}{Seja muito cuidadoso com tais como estes. Saqueadores que são
+ fanaticamente religiosos podem ser bastante perigosos. Ninguem
+ aqui conhece a base deles.}
+{1106}{Ara_56}{Umm, sim, sim. Os Khans são mais nastier do que os Vipers,
+ deixe-me dizer a você. Estes barbaros atacam do
+ sudeste.}
+{1107}{Ara_57}{Criaturas mas, eles são. Seja cuidadoso com a cauda deles.
+ O veneno deles pode ser letal se não tratado.}
+{1108}{Ara_58}{Sim, sim. sim. É um rumor de um monstro criado
+ durante a Guerra.}
+{1109}{Ara_60}{Junktown esta a sul daqui. Os mercadores dela ocasionalmente
+ vem negociar, mas não frequentemente.}
+{1110}{Ara_61}{Os Vipers e Khans ambos usam lanças. Nós sabemos disto pelos
+ ataques deles.}
+{1111}{Ara_62}{Você o achara na frente da cidade. Seth provavelmente estara lá.}
+{1112}{Ara_63}{Ninguem sabe por certo, mas os grupos parecem estar
+ vindo do nordeste.}
+{1113}{Ara_52}{Criaturas mas, eles são. Seja cuidadoso com a cauda deles.
+ O veneno deles pode ser letal se não tratado.}
+{1114}{Ara_23g}{Você o achara na frente da cidade. Seth provavelmente estara lá.}
+{1115}{Ara_73}{Um bom homem jovem, Seth. Capitão dos nossos guardas. Ele
+ esta provavelmente na Casa dos Guardas.}

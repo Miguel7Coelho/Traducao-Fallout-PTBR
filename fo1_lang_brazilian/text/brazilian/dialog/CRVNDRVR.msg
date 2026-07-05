@@ -1,0 +1,176 @@
+{100}{}{Você vê um motorista de caravana.}
+{101}{}{Lamento, eu não conheço você. Se você quer um trabalho você precisa falar com o Rutger.}
+{102}{}{Não fale comigo a respeito do trabalho, fale com o Rutger.}
+{103}{}{O que? Você gastou todo seu dinheiro nas drogas? Se você continuar assim você achara seu novo
+ lar na cidade antiga rodeado de skags.}
+{104}{}{Melhor você ficar sobrio. Volte quando você estiver pronto e capaz de trabalhar.}
+{105}{}{Procurando por outro trabalho?}
+{106}{}{Com certeza.}
+{107}{}{Não, talvez mais tarde.}
+{108}{}{Lug.}
+{109}{}{Rok!}
+{110}{}{Pronto pra ir? Nós saimos hoje.}
+{111}{}{Sim!}
+{112}{}{Não.}
+{113}{}{Hrurra?}
+{114}{}{Lamento, nós não lidaremos mais com você. Tente sua sorte com outra caravana; talvez eles
+ aguentem você.}
+{115}{}{Lamento, nós não estamos contratando.}
+{116}{}{Você tem muita coragem em mostrar sua cara aqui de novo. Eu acho que você deveria sair.}
+{117}{}{Eu disse desapareça!}
+{118}{}{O que você quer? Contratar você foi um desastre.}
+{119}{}{Por favor me de outra chance! Eu não tive escolha!}
+{120}{}{Ah sim? Eu não poderia me importar menos.}
+{121}{}{Tchau. Tchau.}
+{122}{}{Kah.}
+{123}{}{Moo.}
+{124}{}{Olha, eu não sei o que aconteceu lá mas nos perdemos a caravana inteira! Você não deveria
+ ter voltado se você não conseguiu protege-lá.}
+{125}{}{De modo alguém, some!}
+{126}{}{Eu disse suma!}
+{127}{}{O que você quer?}
+{128}{}{Ah, cale-se a saia do meu caminho!}
+{129}{}{Eu quero outro trabalho.}
+{130}{}{Tchau.}
+{131}{}{Zug.}
+{132}{}{Ug.}
+{133}{}{O que? Apos você ter abandonado aquele ultimo trabalho? Você tem sorte que eles sobreviveram.}
+{134}{}{Eu tenho sorte? Você tem sorte que eu não quebro sua cara!}
+{135}{}{Ei! Eu tinha lugares pra ir e pessoas para ver.}
+{136}{}{Eu não sabia que não era permitido a mim sair. Tudo parecia ok.}
+{137}{}{Fale tudo ou saia.}
+{138}{}{Skag.}
+{139}{}{Nós não contratamos bebados.}
+{140}{}{Nós não contratamos drogados.}
+{141}{}{(Você e ignorado)}
+{142}{}{Volte quando você tiver dormido.}
+{143}{}{Seu psicopata. Volte para os currais.}
+{144}{}{Parecia ok? Você nunca deixa uma caravana, nem mesmo se esta a uma milha do local de encontro. Você
+ foi contratado pra protege-lá pela viagem inteira, de outro modo nos teriamos arrumado outro alguém.}
+{145}{}{Bem, ninguém me disse que eu não poderia sair!}
+{146}{}{Eu lamento, nunca acontecera de novo.}
+{147}{}{Vai te catar.}
+{148}{}{O que? Esta e sua 1ª caravana? Como você foi contratado? Este e um trabalho muito delicado e importante;
+ e pra ser levado seriamente. Vidas estão em jogo, ambas da caravana e das cidades que nos suprimos.}
+{149}{}{É você deve estar tão orgulhoso de si próprio.}
+{150}{}{O que? Você quer uma medalha ou algo assim?}
+{151}{}{Me deixe salvar vidas, por favor! Eu quero ajudar!}
+{152}{}{Eu espero que sim! Este e um trabalho muito delicado e importante; e pra ser levado seriamente.
+ Vidas estão em jogo! As caravanas e as cidades que nos suprimos dependem de nos!}
+{153}{}{Você deve estar tão orgulhoso de si próprio.}
+{154}{}{O que? Você quer uma medalha ou algo assim?}
+{155}{}{Me deixe salvar vidas, por favor! Eu quero ajudar!}
+{156}{}{Claro que eu estou.}
+{157}{}{Então, eu posso ter outro trabalho?}
+{158}{}{Você é um idiota!}
+{159}{}{Eu tive que ir. Tchau.}
+{160}{}{Uh, yeah. Isto e trabalho duro e sujo! Nós arriscamos nossas vidas por aqueles em lugares menos afortunados.}
+{161}{}{Tenha uma vida! }
+{162}{}{Ah? É quanto a todas as pessoas menos afortunadas bem debaixo do seu nariz?}
+{163}{}{Você esta certo. Eu posso ter outro trabalho ou o que?}
+{164}{}{O que?  I don't know what you're talking about! Ah, you mean the skags?  They don't count. They choose
+ to live that way.}
+{165}{}{Eu creio que você esta certo.}
+{166}{}{Você me deixa doente.}
+{167}{}{Eu tive que ir.}
+{168}{}{O que? O que eu diria?}
+{169}{}{Claro que eu estou. Eu sou uma pessoa de coraçao bom... na maior parte do tempo.}
+{170}{}{Claro que você esta. Eu posso ter outro trabalho ou o que?}
+{171}{}{Eu estou fora daqui.}
+{172}{}{Essa é a atitude! É muito ruim que eu não possa dar outro trabalho pra você.}
+{173}{}{O que? Apos tudo isso? Ah vamos! Por favor, eu posso ter outro trabalho?}
+{174}{}{Bem, de volta a salvar o mundo então.}
+{175}{}{Isso esta bom. Mas não espere trabalhar pra nos de novo!}
+{176}{}{Ah, por favor! Nunca acontecera de novo!}
+{177}{}{Como se eu quisesse!}
+{178}{}{Bem, ok, mais uma chance. Nossa proxima caravana esta saindo }
+{179}{}{hoje}
+{180}{}{amanha}
+{181}{}{no}
+{182}{}{dia 8}
+{183}{}{dia 18}
+{184}{}{dia 28}
+{185}{}{. Me deixe saber quando você estiver pronto pra sair. Ele paga o padrao de 400 scripts.}
+{186}{}{Lamento mas eu ja cometi um erro ruim quando dei a você uma chance na ultima vez que você estragou tudo.}
+{187}{}{Otimo, qual rota você queria tomar?}
+{188}{}{Oi, a caravana não sai até amanha. Você deveria voltar amanha se você ainda quiser
+ o trabalh.}
+{189}{}{Eu não quero o trabalho.}
+{190}{}{Eu tentarei faze-lo.}
+{191}{}{Certo, eu verei você então.}
+{192}{}{Da.}
+{193}{}{Oi. Você chegou cedo. Bem cedo. A proxima caravana não sai até o }
+{194}{}{dia 8}
+{195}{}{dia 18}
+{196}{}{dia 28}
+{197}{}{. Volte então se você ainda estiver interessado.}
+{198}{}{Eu não quero o trabalho.}
+{199}{}{Eu tentarei faze-lo.}
+{200}{}{Certo. Tchau.}
+{201}{}{Da.}
+{202}{}{Certo. Não importa pra mim.}
+{203}{}{Inferno, não importa pra mim se você aparecer ou não. Nós temos pessoas procurando por trabalho
+ todo dia. Se você não aparecer esta ok.}
+{204}{}{Eu ja disse a você. Não se preocupe com isso. Se você não puder eu posso fazer.}
+{205}{}{Brotherhood of Steel}
+{206}{}{Boneyard }
+{207}{}{Junktown}
+{208}{}{Deixa pra lá. Depois de tudo eu não quero o trabalho.}
+{209}{}{Otima pontualidade, nossas caravanas estão saindo hoje. Ele paga o padrao de 400 scripts. Qual rota de caravana
+ você queria tomar?}
+{210}{}{Otimo. Nossa proxima caravana vai sair no }
+{211}{}{dia 8}
+{212}{}{dia 18}
+{213}{}{dia 28}
+{214}{}{. Volte então e nós designaremos uma caravana pra você. Ele paga o padrao de 400 scripts.}
+{215}{}{Certo.}
+{216}{}{Lamento, Eu não posso esperar por todo esse tempo.}
+{217}{}{Otimo. Eu trarei seu motorista e o resto da equipe. Seja cuidadoso lá fora, tem sido um pouco difícil
+ ultimamente.}
+{218}{}{A equipe esta pronta. Nós sairemos imediatamente.}
+{219}{}{Tudo bem,levara apenas alguns minutos pra juntar a equipe.}
+{220}{}{Tudo bem. Nós sairemos para a Brotherhood tão breve quanto eu juntar o resto da equipe.}
+{221}{}{Certo, você saira pra Brotherhood tão breve quanto eu juntar a equipe.}
+{222}{}{Pronto pra ir! Certifique-se de ficar longe das montanhas.}
+{223}{}{A Boneyard e um lugar difícil -- seja cuidadoso. Certifique-se que todos trabalhem apenas nos seus turnos.}
+{224}{}{A equipe esta quase pronta. Eu ouvi que houve alguns problemas na Boneyard recentemente -- cuidado.}
+{225}{}{Certo, a equipe da caravana para a Boneyard esta pronta e esperando.}
+{226}{}{Junktown e normalmente uma viagem curta e facil -- você não deve ter quaisquer problemas.}
+{227}{}{Bom, a equipe para a caravana de Junktown esta pronta.}
+{228}{}{Tudo bem. Junktown esta esperando, vamos indo.}
+{229}{}{Por que? Ola, eu entendo que você esta procurando por um trabalho. Eu estou surpreso que o Rutger contratou
+ você mas eu tenho certeza que ele tem as razões dele. Nossas caravanas saem daqui 3 vezes por mes: nos dias 8, 18
+ e 28. Há tres lugares que nos vamos numa base regular: a Irmandade de Aço, Junktown é a Boneyard. O pagamento e
+ sempre 400 scripts e isso e na ida. Você pode voltar com a caravana por outros 400 scripts.}
+{230}{}{Você tem uma otima sincronizaçao porque eles estão todos saindo hoje.}
+{231}{}{Eles vao todos sair amanha.}
+{232}{}{Eles não estão saindo por }
+{233}{}{ dias.}
+{234}{}{Você esta interessado?}
+{235}{}{Então, você quer o trabalho?}
+{236}{}{Eles estão todos saindo hoje.}
+{237}{}{Eles vao todos sair amanha.}
+{238}{}{Eles não estão saindo por }
+{239}{}{ dias.}
+{240}{}{Eu suponho que você queira um trabalho. Eu poderia dar um pra você. Você esta interessado?}
+{241}{}{Com certeza.}
+{242}{}{Não.}
+{243}{}{Você sabe aonde você pode enfiar sua caravana.}
+{244}{}{Eu não sei. Eu terei que entrar com contato com você de novo.}
+{245}{}{Ug.}
+{246}{}{Qual rota você queria tomar?}
+{247}{}{Brotherhood of Steel.}
+{248}{}{Boneyard.}
+{249}{}{Junktown.}
+{250}{}{Lamento, eu mudei de ideia.}
+{251}{}{Bem, volte no }
+{252}{}{dia 8}
+{253}{}{dia 18}
+{254}{}{dia 28}
+{255}{}{ e nós juntaremos a equipe.}
+{256}{}{Qual e o seu problema?}
+{257}{}{Você e o problema, e meu punho é a soluçao.}
+{258}{}{Melhor você tomar cuidado.}
+{260}{}{Você é.}
+{261}{}{Sem problema.}
+{262}{}{Sim, ok. Volte se você mudar de ideia.}

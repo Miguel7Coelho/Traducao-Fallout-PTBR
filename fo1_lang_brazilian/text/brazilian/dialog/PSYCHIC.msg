@@ -1,0 +1,103 @@
+{100}{}{Você vê o Gideon, um humano de aparencia normal. Ele esta usando uma coroa.}
+{101}{}{Jason e um deus vivo! So os anulados podem passar!}
+{102}{}{Anulados? Eles estão de algum modo restringindo seus poderes psiquicos por
+ esses dispositivos que vocês estão usando?}
+{103}{}{Quem é Jason?}
+{104}{}{O que você quer dizer com anulados?}
+{105}{}{Eu acabei de mata-lo, então ele deve ser um deus morto agora. Você gostaria
+ de se juntar a ele?}
+{106}{}{Hã?}
+{107}{}{As paredes tambem tem mentes... eu vi você... amanha?}
+{108}{}{Outros como você estão na parede?}
+{109}{}{Deixa pra lá.}
+{110}{}{Eu gostaria de matar você agora. Você poderia abrir este campo de força?}
+{111}{}{Abra o campo de força e eu deixarei você sair.}
+{112}{}{Uh, sim. Você e o 'experimento' que eu estou procurando?}
+{113}{}{Jason? Quem é Jason?}
+{114}{}{Você acabou de dizer... Deixa pra lá.}
+{115}{}{Stup.}
+{116}{}{Sim, as paredes estão vivas com aqueles que se foram antes.}
+{117}{}{O que aconteceu a eles?}
+{118}{}{Uh, eu tenho que ir.}
+{119}{}{Encontro da alma... melded com, para proteger, o Mestre de todos.}
+{120}{}{Eu entendo. Como eu protejo a mim mesmo dos protetores do Mestre?}
+{121}{}{É quanto aos caes de guerra?}
+{122}{}{Eu preciso proteger o Mestre. Como eu chego até ele?}
+{123}{}{Eu consigo matar qualquer um ou qualquer coisa. Abre este campo de
+ força e eu demonstrarei.}
+{124}{}{Tchau.}
+{125}{}{So há paz e uniao.. o preço.. a dor.. aquele deve ser
+ cego.. anulado.}
+{126}{}{Bem, eu preciso me unir. Aonde eu posso pegar um desses anuladores snazzy?}
+{127}{}{Ótimo! Como eu me uno?}
+{128}{}{Eu gostaria de unir minha arma com sua cabeca!}
+{129}{}{Eu não tenho tempo para isto. Tchau.}
+{130}{}{Eu will anoint você... Eu devo dar o que eu não devo.}
+{131}{}{Obrigado.}
+{132}{}{Ninguem vai me anointing, seu bastardo insano!}
+{133}{}{Anoint? Anoint me com o que?}
+{134}{}{Não, obrigado.}
+{135}{}{Você não pode matar o genio de... o todo.. Seu... hehf!}
+{136}{}{Sim, mas eu posso causar um monte de dor.}
+{137}{}{Eu não quero matar. Eu quero adorar.}
+{138}{}{Obviamente. Tchau.}
+{139}{}{Phlegm! Desenvolvimente insubstancial... comunicacao, anular... fim da morte.}
+{140}{}{As paredes tambem tem mentes... Eu vi você... amanha foi?}
+{141}{}{Eu tomarei isso como um sim.}
+{142}{}{Ótimo! Como eu me uno?}
+{143}{}{A blasfema.. decompor.. morte sera.. salvacao.. forte!}
+{144}{}{As mentes... as paredes... diante do grande.}
+{145}{}{Aqueles que se foram antes... devem parar sua jornada.}
+{146}{}{Eu preciso mudar isso.}
+{147}{}{Eu devo completar minha jornada, o mestre deseja.}
+{148}{}{Quem? Fez o que?}
+{149}{}{Sim, mas eu posso causar a eles um monte de dor.}
+{150}{}{Lamento perturbar você de novo. Tchau.}
+{151}{}{Eu gostaria de ajudar você a escapar.}
+{200}{}{Você vê Moore, um camarada de aparencia scruffy. Ele esta usando uma coroa.}
+{201}{}{Você vê um camarada de aparencia scruffy.}
+{202}{}{O asfalto correra vermelho!! Eu esmagarei!}
+{203}{}{Exatamente.}
+{204}{}{Do que você esta falando?}
+{205}{}{Sim, ficara vermelho com seu sangue.}
+{206}{}{Uh, sim. Tchau.}
+{207}{}{Urgh!}
+{208}{}{Eu pararei o motor! O mestre me deu a força...}
+{209}{}{Certo Hank. Eu gostaria de encontrar o Mestre, como eu chego lá?}
+{210}{}{Que motor?}
+{211}{}{Claro! Eu entendo completamente...}
+{212}{}{Eu gostaria de dividir sua cabeca aberta, seu idiota blithering.}
+{213}{}{Ah, você de novo não. Tchau.}
+{214}{}{So os poderosos podem passar, mas eles serao impedidos de passar.}
+{215}{}{Abra este campo de força, eu quero mostrar a você o meu poder.}
+{216}{}{Mas eu tenho que ver o Mestre!}
+{217}{}{Você pode me mostrar como?}
+{218}{}{Gideon... Gideon fala o caminho.}
+{219}{}{Exatamente.}
+{300}{}{Você vê Lucy, uma mulher humana de aparencia normal. Ela esta usando uma coroa.}
+{301}{}{Você vê uma mulher humana. Ela esta olhando para seus sapatos.}
+{302}{}{Não há lugar como o lar, nenhum lugar como o lar, nenhum lugar como o lar...
+ [balancando pra frente e pra tras]}
+{303}{}{Hum!}
+{304}{}{Pare com isso!}
+{305}{}{É quanto a este plugar? Esta não é sua casa?}
+{306}{}{Eu concordo. Completamente e utterly. Você esta certo... [ela pausa por um
+ momento] O que você disse? Ah, deixa pra lá.}
+{307}{}{[olhando pra você intensamente] Eu assassinarei você por isso! Eu farei seu sangue
+ ficar vermelho. Espere um minuto. O sangue e vermelho, como eu posso faze-lo ficar
+ vermelho? Eu não consigo fazer isso. Hmmm. Eu preciso pensar sobre isto. Vá embora!}
+{308}{}{Meu lar e, uh, sim. Aqui. Sim, e aqui. Este e o meu lar! [ela pula pra cima
+ e pra baixo] Eu estou tão feliz! Você não pode acreditar em quao feliz isto me
+ faz. Eu acho que eu vou socar a parede por um tempo.}
+{309}{}{Eu estou ocupado. Eu quase tenho a solucao pros problema ambientais que
+ estão fodendo este mundo, mas eu não consigo parar de pensar sobre dinossauros
+ purpuras. Isto é um problema?}
+{310}{}{Pare de me bugging, eu estou pensando...}
+{400}{}{Você vê Wiggum, um perdedor completo. Ele esta usando uma coroa.}
+{401}{}{Você vê o que parece ser um perdedor completo.}
+{402}{}{Eu estou cansado.}
+{403}{}{Minha vida e o inferno.}
+{404}{}{Eu estou cansado de viver.}
+{405}{}{A escuridao vem.}
+{406}{}{Que seja.}
+{500}{}{Um sinal na parede diz: 'Aviso! Não Perturbe!'}
