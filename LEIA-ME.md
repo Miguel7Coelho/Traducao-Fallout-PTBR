@@ -1,129 +1,31 @@
-# Tradução PT-BR do Fallout — fluxo com checkpoint
+# Tradução PT-BR do Fallout (1997)
 
-**Cada arquivo tem a sua pasta**, com o inglês e o português **sempre lá e
-separados**. O que ainda não foi traduzido fica **em inglês** dentro do `pt`,
-então você nunca fica sem o texto de origem. Você edita, **roda o `.py`**, ele
-gera um **JSON do que mudou** e **salva o ponto onde você parou** — na próxima
-vez você continua de onde estava.
-
-## Estrutura
-
-```
-traduzir.py
-traducao/
-├── arquivos/
-│   ├── dialog/
-│   │   ├── ABEL/
-│   │   │   ├── en.msg   <- INGLÊS (referência — não edite)
-│   │   │   └── pt.msg   <- TRADUÇÃO (edite aqui)
-│   │   ├── BAKA/
-│   │   │   ├── en.msg
-│   │   │   └── pt.msg
-│   │   └── ...
-│   ├── game/...
-│   └── cuts/...   (aqui os arquivos são en.txt / pt.txt)
-├── progresso.json   <- o checkpoint (onde você parou). Não edite à mão.
-└── alteracoes.json  <- gerado quando você roda o .py
-```
-
-Regra que o programa usa: **no `pt.msg`, uma fala idêntica ao inglês = ainda
-pendente.** Assim que você troca o texto, ela passa a contar como traduzida.
-Nada de marcador estranho — você traduz "por cima" do inglês.
+Tradução da comunidade do Fallout original para português do Brasil, pensada
+pra rodar no Fallout Community Edition (fo1-ce) / sfall.
 
 Estado atual: **~75,6% traduzido** (31.774 falas prontas, 10.270 ainda em inglês).
 
-## O dia a dia
+## O que baixar
 
-1. Abra o `pt.msg` da pasta que quer traduzir (ex.:
-   `traducao/arquivos/dialog/BAKA/pt.msg`). Se quiser ver o original ao lado,
-   abra o `en.msg` da mesma pasta.
-2. Traduza as falas (troque o texto inglês pelo português). Salve.
-3. Rode o programa:
+Este repositório é organizado em branches — cada uma é um pacote pronto pra
+copiar pra pasta do jogo:
 
-   ```
-   python3 traduzir.py
-   ```
+| Branch | O que é | Necessário? |
+|---|---|---|
+| [`fo1_lang_brazilian`](../../tree/fo1_lang_brazilian) | Tradução principal: `dialog`, `game` e `cuts` (~44 mil falas) | Sim |
+| [`modulos_extra_ptbr`](../../tree/modulos_extra_ptbr) | Módulos extras: Appearance, finais alternativos de Junktown, premades, Robodog, `Translations.ini` do sfall | Opcional |
+| [`dev`](../../tree/dev) | Workspace de tradução (`traduzir.py` + arquivos en/pt por fala) | Só se for traduzir/contribuir |
 
-   Isso:
-   - gera **`traducao/alteracoes.json`** com exatamente o que você mudou;
-   - **salva o checkpoint** (o ponto onde você parou).
+## Como instalar
 
-   Exemplo de uma entrada do JSON:
+1. Baixe a branch `fo1_lang_brazilian` e copie a pasta `fo1_lang_brazilian`
+   pra dentro da pasta de mods do seu Fallout.
+2. (Opcional) Baixe a branch `modulos_extra_ptbr` e copie cada subpasta dela
+   junto — veja o `LEIA-ME_modulos.txt` dentro pra detalhes de cada módulo.
+3. Ative o idioma `brazilian` no seu launcher/config do fo1-ce.
 
-   ```json
-   {
-     "arquivo": "dialog/BAKA",
-     "origem_jogo": "dialog/BAKA.msg",
-     "id": "100",
-     "tipo": "novo",
-     "en": "You see: Baka.",
-     "de": "You see: Baka.",
-     "para": "Você vê: Baka.",
-     "avisos": []
-   }
-   ```
+## Quer contribuir com a tradução?
 
-   `tipo` pode ser `novo` (estava em inglês, agora traduzido), `editado`
-   (mudou um já traduzido) ou `revertido_para_ingles`.
-
-4. Quando voltar depois, veja de onde retomar:
-
-   ```
-   python3 traduzir.py continuar
-   ```
-
-   Ele mostra onde você parou e lista os próximos arquivos e falas ainda em
-   inglês.
-
-## Comandos
-
-| Comando | O que faz |
-|---|---|
-| `python3 traduzir.py` | (sem argumento) varre tudo, gera o JSON e salva o checkpoint |
-| `python3 traduzir.py continuar` | mostra de onde retomar |
-| `python3 traduzir.py status` | tabela de progresso por categoria |
-| `python3 traduzir.py compilar` | gera os `.msg` finais do jogo em `traducao/saida_jogo/` (ISO-8859-1) |
-| `python3 traduzir.py init --en ... --pt ...` | recria a árvore do zero (não sobrescreve `pt` já editado, a menos que use `--forcar`) |
-
-## As validações (rodam a cada `traduzir.py`)
-
-Toda fala alterada é checada contra os 3 problemas clássicos desse jogo:
-
-1. **Tokens `%s %d`** — se o inglês tem `%d` e sua tradução não, o jogo dá erro.
-   Acusado.
-2. **Chaves `{ }`** no texto — quebram o formato `.msg`. Acusado.
-3. **Codificação ISO-8859-1** — o Fallout não aceita travessão (`—`), aspas
-   curvas (`" "`) nem emoji. O programa aponta o caractere exato e sugere a
-   troca. (Você edita em UTF-8; a conversão pra ISO-8859-1 acontece só no
-   `compilar`.)
-
-Falas com problema aparecem no JSON com o campo `avisos` preenchido.
-
-## Git / branches (opcional)
-
-A estrutura já é amigável pra Git: `en.msg` e `pt.msg` ficam separados por
-arquivo, então o histórico do português fica limpo. Se quiser trabalhar com
-branches de verdade:
-
-```
-cd traducao
-git init
-git add . && git commit -m "base: inglês + tradução parcial"
-git branch ingles-base          # marca o ponto de partida
-# traduza no branch principal; o 'ingles-base' guarda o original intacto
-```
-
-O inglês fica **também** dentro de cada pasta (`en.msg`) de propósito: assim dá
-pra ver o original sem precisar trocar de branch enquanto traduz.
-
-## Observações
-
-- Cobre `dialog`, `game` e `cuts` do módulo principal (`fo1_lang_brazilian`),
-  ~44 mil falas. Módulos extras e arquivos `.bio`/`.sve` ficam de fora desta
-  versão.
-- **Falas "extra" (397)**: existem só na sua tradução (de outra versão), não no
-  inglês atual. Foram preservadas no fim do `pt.msg` pra não perder trabalho.
-- **Falas "vazio" (1.514)**: são `{id}{}{}` sem texto no próprio jogo. Não
-  precisam de tradução e não entram na conta de pendências.
-- Uma fala traduzida que ficar idêntica ao inglês (ex.: nomes próprios, "OK")
-  vai aparecer como "pendente". Se for proposital, é só ignorar.
+O fluxo de tradução (com checkpoint, validações e o script `traduzir.py`)
+vive na branch [`dev`](../../tree/dev) — o `LEIA-ME.md` de lá explica o
+dia a dia de como traduzir uma fala e gerar os arquivos finais do jogo.
