@@ -1,0 +1,2 @@
+{100}{}{Estilo (Careca)}
+{101}{}{Cabelo? Quem precisa disso? Você é um farol reluzente de masculinidade rústica e sem frescura. Ou talvez seja só o sol do ermo refletindo na sua cabeça. De todo jeito, você ostenta a careca lustrosa com orgulho.}
