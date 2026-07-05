@@ -1,4 +1,0 @@
-{100}{}{Este terminal parece ter sido destruido pela explosao.}
-{101}{}{Este computador parece que poderia ter armazenado megabytes de dados.}
-{102}{}{Você imagina quais dados poderiam ter estado neste computador.}
-{103}{}{Parece que este computador estava uma vez conectado a um mainframe.}

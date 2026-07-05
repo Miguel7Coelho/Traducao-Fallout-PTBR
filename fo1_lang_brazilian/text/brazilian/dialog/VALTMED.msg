@@ -1,3 +1,0 @@
-{100}{}{Este e o Laboratorio de Emergencia Medica da Vault--EML.
- Esta aqui para que todos os ferimentos serios e doencas
- possam ser tratados. Deveria haver um medico no dever 24 horas por dia.}

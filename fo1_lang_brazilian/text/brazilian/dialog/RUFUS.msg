@@ -1,9 +1,0 @@
-{100}{}{Você vê Rufus.}
-{101}{}{Por favor não me mate…}
-{102}{}{Shhhh! Eu estou tentando jogar meu jogo!}
-{103}{}{Quieto! Eu estou tentando jogar meu jogo. Cyberhood, Principe da Matrix, que classico!}
-{104}{}{Maldicao! Meu personagem tomou uma surra de novo. Roger e tão fracote…}
-{105}{}{Aonde esta a chave para o Cyberspace? Eu estive por todo o maldito predio do Kruz…}
-{106}{}{Não aconteceria de você saber a senha para o Malibu Stu's? Ah, deixa pra lá…}
-{107}{}{Aquela Kaira, que raposa!}
-{108}{}{Não me aborreca. Eu estou tentando resolver este maldito enigma do pato…}

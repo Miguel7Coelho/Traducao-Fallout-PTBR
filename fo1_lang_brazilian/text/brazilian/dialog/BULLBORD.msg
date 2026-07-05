@@ -1,6 +1,0 @@
-{100}{}{Você vê um Quadro de Boletins.}
-{101}{}{PRECISA DE TRABALHO?  Os Far Go Traders estão preenchendo atualmente as seguintes posições:}
-{102}{}{1. Guardas das Caravanas.  Deve estar em boa condicao fisica e ser digno de confianca.}
-{103}{}{2. Posicao Especial.  Deve ser observador e desejar viajar em territorio perigoso.}
-{104}{}{Armas e munições proprias requeridas para todos os trabalhos.  Perguntar ao Rutger no escritorio dos Far Go Traders.}
-{105}{}{[Mais]}

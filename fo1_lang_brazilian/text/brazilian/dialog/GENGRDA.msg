@@ -1,6 +1,0 @@
-{100}{}{Rapaz, com certeza esta quente.}
-{101}{}{Eu poderia beber alguma coisa.}
-{102}{}{Estas viagens com certeza são longas.}
-{103}{}{Eu espero que nós não encontremos quaisquer saqueadores.}
-{104}{}{Eu realmente preciso do dinheiro deste trabalho.}
-{105}{}{Eu odeio este trabalho.}

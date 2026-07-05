@@ -1,3 +1,0 @@
-{100}{}{Você vê Seth, o guia da volta para Shady Sands.}
-{101}{}{Vamos nos apressar e livre-se destes Radscorpions.}
-{102}{}{Vamos voltar para Shady Sands e deixe eles saberem que os Radscorpions se foram.}

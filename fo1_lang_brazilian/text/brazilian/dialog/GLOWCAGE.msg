@@ -1,2 +1,0 @@
-{100}{}{Aparenta que esta gaiola continha animais de laboratorio para
- testes. De algum modo, as barras foram arrancadas.}

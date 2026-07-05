@@ -1,6 +1,0 @@
-{100}{}{Você vê um Elder da Brotherhood.}
-{101}{}{Saudações, Iniciado.}
-{102}{}{Maxson parece um pouco estressado ultimamente.}
-{103}{}{Vree tem feito algumas descobertas muito pertubadoras.}
-{104}{}{Eu imagino se o Maxson esta certo sobre aquele exercito no norte.}
-{105}{}{Bom dia Iniciado.}

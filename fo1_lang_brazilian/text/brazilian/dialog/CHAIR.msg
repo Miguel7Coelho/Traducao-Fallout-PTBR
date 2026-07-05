@@ -1,1 +1,0 @@
-{100}{}{Isto não é hora para se sentar! Mexa-se!}

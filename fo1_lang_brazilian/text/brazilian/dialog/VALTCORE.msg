@@ -1,2 +1,0 @@
-{100}{}{Este e o Nucleo Central. Este e o coração do
- sistema de computadores.}

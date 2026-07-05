@@ -1,2 +1,0 @@
-{100}{}{Estilo (Padrão)}
-{101}{}{Diferente da maioria dos seus colegas da Vault, que usam os cabelos longos presos num rabo de cavalo, seu cabelo preto é cortado reto na altura dos ombros. E daí que riem de você e te chamam de Cabeça-de-Balde pelas costas?}

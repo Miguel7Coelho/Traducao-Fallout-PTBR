@@ -1,7 +1,0 @@
-{100}{}{Você abre a tampa do bueiro e escala pra fora
- dos esgotos dank.}
-{101}{}{Você strain seus ombros na tampa do bueiro,
- e então escorrega da escada.}
-{102}{}{Você não consegue budge a tampa do bueiro.}
-{103}{}{Você quase escorrega da escada.}
-{104}{}{Você cai no chao.}

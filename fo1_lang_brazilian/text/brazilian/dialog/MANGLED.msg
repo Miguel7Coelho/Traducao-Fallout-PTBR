@@ -1,2 +1,0 @@
-{100}{}{Você nota trilhas sangrentas levando aos corpos.}
-{101}{}{Parece que alguns dos animais arrastaram os corpos pra aqui.}

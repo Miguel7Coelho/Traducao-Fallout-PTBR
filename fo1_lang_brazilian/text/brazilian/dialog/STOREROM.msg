@@ -1,1 +1,0 @@
-{100}{}{Esta sala parece particularmente saqueada.}

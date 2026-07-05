@@ -1,2 +1,0 @@
-{100}{}{Estilo (Cabeludo)}
-{101}{}{Suas longas mechas esvoaçantes balançam sobre os ombros enquanto você passa trotando. Seus colegas da Vault observam maravilhados as mechas multifacetadas da sua gloriosa juba cintilando sob a luz interna.}

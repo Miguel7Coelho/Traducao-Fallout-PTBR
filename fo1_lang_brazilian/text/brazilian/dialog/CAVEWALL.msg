@@ -1,2 +1,0 @@
-{100}{}{Esta porcao da caverna parece um pouco mais fraca.}
-{101}{}{A rocha aqui parece muito fragmentada e muito provavelmente caira sob condições extremas.}

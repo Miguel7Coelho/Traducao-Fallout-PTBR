@@ -1,2 +1,0 @@
-{100}{}{Este e um barracao velho. Ele mal esta de pe,
- e parece ter sido saqueado a muito tempo atras.}

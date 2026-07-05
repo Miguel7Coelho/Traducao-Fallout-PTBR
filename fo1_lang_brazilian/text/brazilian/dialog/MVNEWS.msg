@@ -1,3 +1,0 @@
-{100}{}{A noticia principal do jornal diz: "A Vida Diaria na Vila".}
-{101}{}{A maquina do jornal esta inesplicavelmente emperrada. É
- muito frustrante.}

@@ -1,3 +1,0 @@
-{100}{}{A estante dos livros esta cheia de novelas ta.}
-{101}{}{A estante dos livros esta cheia de novelas ta.}
-{102}{}{Infelizmente, você esta muito pressionado pelo tempo para ler uma das novelas.}

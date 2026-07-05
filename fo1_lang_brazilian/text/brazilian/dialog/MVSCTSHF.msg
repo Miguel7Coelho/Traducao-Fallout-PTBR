@@ -1,3 +1,0 @@
-{100}{}{Você acha um latch escondido e o destranca.}
-{101}{}{A estante desliza quietamente pra fora do caminho.}
-{102}{}{Ela mostra sinais de ser engraxada recentemente.}

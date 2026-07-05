@@ -1,4 +1,0 @@
-{100}{}{A estante de livros esta cheia de livros religiosos e filosoficos. Esta
- muito empoeirada.}
-{101}{}{Você tira um livro, examina, e rapidamente o coloca na estante. A
- propria estante parece muito sturdy.}

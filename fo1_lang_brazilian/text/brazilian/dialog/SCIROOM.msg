@@ -1,1 +1,0 @@
-{100}{}{Esta sala uma vez pertenceu aos estimados cientistas.}

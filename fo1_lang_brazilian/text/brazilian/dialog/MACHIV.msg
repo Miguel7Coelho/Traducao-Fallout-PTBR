@@ -1,5 +1,0 @@
-{100}{}{Diante de você esta um computador Mach IV.}
-{101}{}{Parece que o sistema esta no status de reiniciar.}
-{102}{}{O sistema parece ter travado.}
-{103}{}{O monitor flickers.}
-{104}{}{A tela esta mostrando modelos de cores esquisitas.}

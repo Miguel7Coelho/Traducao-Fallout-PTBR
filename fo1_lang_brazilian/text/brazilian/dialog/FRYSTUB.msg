@@ -1,2 +1,0 @@
-{100}{}{Você vê o Deputy Fry.}
-{101}{}{O xerife esta no comando deste operacao. Fale com ele ao inves de mim.}
