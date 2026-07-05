@@ -1,0 +1,5 @@
+{100}{}{Você vê um ghoul brilhante.}
+{101}{}{Uma soneca suja será dada se alterações são feitas. A
+ ultima foi tentada aqui.}
+{102}{}{O fluxo termina. Assim como sua vida.}
+{103}{}{Obrigado por consertar a bomba d'água.}
