@@ -1,7 +1,8 @@
 # Tradução PT-BR do Fallout (1997)
 
-Tradução da comunidade do Fallout original para português do Brasil, pensada
-pra rodar no Fallout Community Edition (fo1-ce) / sfall.
+Tradução da comunidade do Fallout original (1997) para português do Brasil.
+Roda tanto no jogo original quanto no Fallout Community Edition (fo1-ce) /
+sfall.
 
 Estado atual: **~75,6% traduzido** (31.774 falas prontas, 10.270 ainda em inglês).
 
