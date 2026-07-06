@@ -4,7 +4,10 @@ Tradução da comunidade do Fallout original (1997) para português do Brasil.
 Roda tanto no jogo original quanto no Fallout Community Edition (fo1-ce) /
 sfall.
 
-Estado atual: **~75,6% traduzido** (31.774 falas prontas, 10.270 ainda em inglês).
+Estado atual: **~95% traduzido** (39.561 falas prontas). As ~2.483 falas
+restantes que aparecem como pendentes **não precisam de tradução** — são
+nomes próprios, onomatopeias e afins (ex.: "Pik! Pik!") que ficam iguais em
+português.
 
 ## O que tem aqui
 
