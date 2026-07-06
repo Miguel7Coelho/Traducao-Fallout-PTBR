@@ -1,0 +1,15 @@
+{100}{}{Você vê um fazendeiro.}
+{101}{}{Eu preciso de um solo melhor.}
+{102}{}{Eu não estou contratando.}
+{103}{}{Eu não preciso de mais água, por favor saia.}
+{104}{}{Este solo e muito duro.}
+{105}{}{Estas plantas estupidas não vao sobreviver.}
+{106}{}{Por que eu me tornei um fazendeiro?}
+{107}{}{Melhor aqueles cachorros não estarem mijando nas minhas crops.}
+{108}{}{Eu odeio cachorros!}
+{109}{}{Eu odeio cachorros! Uh, exceto o seu.}
+{110}{}{Este não é seu lar.}
+{111}{}{O que? Você vai por ai aborrecendo todo mundo?}
+{112}{}{Que dia. Eu estou exausto.}
+{113}{}{Eu chamarei a policia.}
+{114}{}{Eu estou cansado. Por favor saia.}

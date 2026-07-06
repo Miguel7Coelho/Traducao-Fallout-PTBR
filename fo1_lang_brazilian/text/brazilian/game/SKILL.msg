@@ -1,0 +1,96 @@
+{100}{}{Armas Pequenas}
+{101}{}{Armas Grandes}
+{102}{}{Armas de Energia}
+{103}{}{Desarmado}
+{104}{}{Armas Brancas}
+{105}{}{Armas Arremessáveis}
+{106}{}{Primeiros Socorros}
+{107}{}{Doutor}
+{108}{}{Furtividade}
+{109}{}{Lockpick}
+{110}{}{Furtar}
+{111}{}{Armadilhas}
+{112}{}{Ciência}
+{113}{}{Reparo}
+{114}{}{Persuasão}
+{115}{}{Negociar}
+{116}{}{Apostar}
+{117}{}{Sobrevivência}
+{200}{}{O uso, cuidado e conhecimento geral de armas de fogo pequenas. Pistolas, SMGs e rifles.}
+{201}{}{A operação e manutenção de armas realmente grandes. Miniguns, Lança-Foguetes, Lança-Chamas e tais.}
+{202}{}{O cuidado e alimentação de armas baseadas em energia. Como armar e operar armas que usam tecnologia laser ou plasma.}
+{203}{}{Uma combinação de artes marciais, boxe e outras artes marciais corpo a corpo. Combate com suas mãos e pés.}
+{204}{}{Usar armas sem alcance em combate corpo a corpo. Facas, marretas, lanças, clavas e assim por diante.}
+{205}{}{A técnica de armas de alcance impelidas pelos músculos. Facas de arremesso, lanças e granadas.}
+{206}{}{Técnica de cura em geral. Usada pra curar pequenos cortes, abrasões e outras pequenas aflições. Em termos do jogo, o uso de primeiros socorros pode curar mais pontos de dano com o tempo do que apenas descansar.}
+{207}{}{A cura de feridas maiores e membros incapacitados. Sem esta técnica, levara um período muito maior de tempo para restaurar os membros incapacitados para o uso.}
+{208}{}{Movimentação discreta é a habilidade de permanecer não notado. Se bem sucedido, será muito mais difícil de localizarem você. Você não pode correr e andar furtivamente ao mesmo tempo.}
+{209}{}{A técnica de abrir trancas sem a chave apropriada. O uso de gazuas ou gazuas eletrônicas elevara drasticamente esta técnica.}
+{210}{}{A habilidade de fazer das coisas dos outros, as suas próprias. Pode ser usada para roubar de pessoas ou lugares.}
+{211}{}{A descoberta e remoção de armadilhas. Também a configuração de explosivos para propósito de demolição.}
+{212}{}{Cobre uma variedade de técnicas de alta tecnologia, tais como computadores, biologia, física e geologia.}
+{213}{}{A aplicação pratica da técnica da Ciência. O conserto de equipamento quebrado, maquinaria e eletrônicos.}
+{214}{}{A habilidade para se comunicar de uma maneira pratica e eficiente. A técnica de convencer os outros que o seu ponto de vista é a correta. A habilidade de mentir e não ser pego.}
+{215}{}{Comercio e tarefas relacionadas a negociar. A habilidade de obter os melhores preços para os itens que você vende e menores preços para os itens que você compra.}
+{216}{}{As técnicas de conhecimento e pratica relacionadas as apostas. A técnica em cartas, dados e outros jogos.}
+{217}{}{Conhecimento pratico do ar livre é a habilidade de viver as custas da terra. O conhecimento de plantas e animais.}
+{300}{}{+ AG}
+{301}{}{+ AG}
+{302}{}{+ AG}
+{303}{}{+(AG+FO)/2}
+{304}{}{+(AG+FO)/2}
+{305}{}{+ AG}
+{306}{}{+ (PE + IN)}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ AG}
+{309}{}{+ (PE + AG)/2}
+{310}{}{+ AG}
+{311}{}{+ (PE + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CA)}
+{315}{}{+ (2 x CA)}
+{316}{}{+ (3 x SO)}
+{317}{}{+ (RE + IN)/2}
+{500}{}{Você cura %d pontos de dano.}
+{501}{}{Você já parece saudável.}
+{502}{}{%s já parece saudável.}
+{503}{}{Você falha em fazer qualquer cura.}
+{505}{}{Você ganha %d XP por afiar suas técnicas.}
+{510}{}{\nskill_use: técnica usada invalida.}
+{512}{}{Você não pode curar os mortos.}
+{513}{}{Deixe os mortos descansarem em paz.}
+{514}{}{Esta morto, supere.}
+{520}{}{Você cura seu/sua %s.}
+{521}{}{Você cura o %s.}
+{525}{}{Você falha em curar seu/sua %s.}
+{526}{}{Você falha em curar o %s.}
+{530}{}{olho danificado}
+{531}{}{braço esquerdo incapacitado}
+{532}{}{braço direito incapacitado}
+{533}{}{perna direita incapacitada}
+{534}{}{perna esquerda incapacitada}
+{550}{}{Você falha em abrir a tranca.}
+{551}{}{Você falha em achar quaisquer armadilhas.}
+{552}{}{Você falha em aprender qualquer coisa.}
+{553}{}{Você não pode reparar isso.}
+{570}{}{Você é pego roubando o %s.}
+{571}{}{Você rouba o %s.}
+{572}{}{Você é pego plantando a %s.}
+{573}{}{Você planta a %s.}
+{590}{}{Você sobrecarregou sua habilidade com essa técnica.  Espere um pouco.}
+{591}{}{Você esta muito cansado.}
+{592}{}{O esforço poderia matar você.}
+{600}{}{Você não é habilidoso o bastante para curar ferimentos incapacitantes.}
+{601}{}{A unidade robótica está além de reparo.}
+{1000}{}{Deixa eu ajudar.}
+{1001}{}{Eu posso fazer isso.}
+{1002}{}{Deixa comigo.}
+{1003}{}{Feliz em ajudar.}
+{1004}{}{Certo.}
+{1005}{}{Vou tentar.}
+{1100}{}{Se tiver problemas, me avise.}
+{1101}{}{Conseguiu?}
+{1102}{}{Se é isso que você quer.}
+{1103}{}{Pode tentar.}
+{1104}{}{Pode ir em frente.}

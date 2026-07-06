@@ -1,0 +1,28 @@
+{100}{}{Você vê o Terry.}
+{101}{}{A racao de água e passada a noite . . . Ei, você não e
+ um ghoul!}
+{102}{}{Isso não é importante agora. O que é importante
+ e o local do chefe.}
+{103}{}{Não, eu não sou.}
+{104}{}{Ngh.}
+{105}{}{Eu levarei você a ele. Aqui, deixe-me dar uma mao pra você.}
+{106}{}{Melhor eu levar você pro Harry, ele sabera o que fazer com você.}
+{107}{}{Ei, sem conversa! Perturba meu pensamento.}
+{108}{}{Que hora da noite e?}
+{109}{}{O mutante ignora você.}
+{1000}{}{Chip}
+{1001}{}{Necropolis}
+{1002}{}{Set}
+{1003}{}{Bacia Hidrografica}
+{1004}{}{Hall}
+{1005}{}{Lou}
+{1006}{}{Ghouls}
+{1007}{}{Normais}
+{1100}{}{Sei lá.}
+{1101}{}{Você de pe nela.}
+{1102}{}{Ele é uma bicha. Nós deveriamos simplesmente erradicar ele e seus ghouls.}
+{1103}{}{É aqui.}
+{1104}{}{Sei lá.}
+{1105}{}{Ele o chefe do Harry.}
+{1106}{}{Coisas covardes.}
+{1107}{}{Mais zangado que ghouls.}

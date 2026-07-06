@@ -5,23 +5,26 @@ pra rodar no Fallout Community Edition (fo1-ce) / sfall.
 
 Estado atual: **~75,6% traduzido** (31.774 falas prontas, 10.270 ainda em inglês).
 
-## O que baixar
+## O que tem aqui
 
-Este repositório é organizado em branches — cada uma é um pacote pronto pra
-copiar pra pasta do jogo:
+Esta branch (`main`) já traz os dois pacotes prontos pra copiar pra pasta do
+jogo:
 
-| Branch | O que é | Necessário? |
+| Pasta | O que é | Necessário? |
 |---|---|---|
-| [`fo1_lang_brazilian`](../../tree/fo1_lang_brazilian) | Tradução principal: `dialog`, `game` e `cuts` (~44 mil falas) | Sim |
-| [`modulos_extra_ptbr`](../../tree/modulos_extra_ptbr) | Módulos extras: Appearance, finais alternativos de Junktown, premades, Robodog, `Translations.ini` do sfall | Opcional |
-| [`dev`](../../tree/dev) | Workspace de tradução (`traduzir.py` + arquivos en/pt por fala) | Só se for traduzir/contribuir |
+| [`fo1_lang_brazilian/`](fo1_lang_brazilian) | Tradução principal: `dialog`, `game` e `cuts` (~44 mil falas) | Sim |
+| [`modulos_extra_ptbr/`](modulos_extra_ptbr) | Módulos extras: Appearance, finais alternativos de Junktown, premades, Robodog, `Translations.ini` do sfall | Opcional |
+
+Se você só quer um dos dois isolado (sem a outra pasta junto), cada um também
+tem sua própria branch: [`fo1_lang_brazilian`](../../tree/fo1_lang_brazilian)
+e [`modulos_extra_ptbr`](../../tree/modulos_extra_ptbr).
 
 ## Como instalar
 
-1. Baixe a branch `fo1_lang_brazilian` e copie a pasta `fo1_lang_brazilian`
-   pra dentro da pasta de mods do seu Fallout.
-2. (Opcional) Baixe a branch `modulos_extra_ptbr` e copie cada subpasta dela
-   junto — veja o `LEIA-ME_modulos.txt` dentro pra detalhes de cada módulo.
+1. Copie a pasta `fo1_lang_brazilian` pra dentro da pasta de mods do seu
+   Fallout.
+2. (Opcional) Copie as subpastas de `modulos_extra_ptbr` junto — veja o
+   `LEIA-ME_modulos.txt` dentro pra detalhes de cada módulo.
 3. Ative o idioma `brazilian` no seu launcher/config do fo1-ce.
 
 ## Quer contribuir com a tradução?

@@ -1,0 +1,20 @@
+{100}{}{Você vê um guarda dos Far Go Traders.}
+{101}{}{Aqueles malditos Mercadores das Aguas estão nos roubando.}
+{102}{}{Esteja certo de pagar o FLC na hora, eles são um bando mortal.}
+{103}{}{Você vai querer falar com o Rutger.}
+{104}{}{Far Go Traders são os melhores.}
+{105}{}{A Crimson Caravan são um bando de idiotas e lunaticos.}
+{106}{}{Hmm, eu estive craving por um pouco de iguana no palito.}
+{107}{}{Quem diabos esta roubando nossas caravanas?}
+{108}{}{Meu irmao estava na ultima caravana que desapareceu.}
+{109}{}{Aqueles miseraveis das aguas são os responsaveis, eu sei.}
+{110}{}{Eu ouvi que os mutantes tomaram as caravanas. Coisa terrível.}
+{111}{}{Ouvi que você disse alguns mutantes. Espero que você fez eles pagarem.}
+{112}{}{Eu pensei que o deathclaw fosse o responsável, malditos mutantes.}
+{113}{}{Nós estamos fechados. Volte de manha.}
+{114}{}{Ei, este não é o Falcon. Saia daqui.}
+{115}{}{Quem é você? Algum tipo de Skag? Saia daqui.}
+{116}{}{Cai fora!}
+{117}{}{Nós estamos abertos apenas durante o dia.}
+{118}{}{Você esta drogado? Desapareca.}
+{119}{}{Você precisa voltar de manha.}
