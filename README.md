@@ -22,11 +22,16 @@ e [`modulos_extra_ptbr`](../../tree/modulos_extra_ptbr).
 
 ## Como instalar
 
-1. Copie a pasta `fo1_lang_brazilian` pra dentro da pasta de mods do seu
+1. Copie a pasta `fo1_lang_brazilian` pra dentro da pasta `mods` do seu
    Fallout.
 2. (Opcional) Copie as subpastas de `modulos_extra_ptbr` junto — veja o
    `LEIA-ME_modulos.txt` dentro pra detalhes de cada módulo.
-3. Ative o idioma `brazilian` no seu launcher/config do fo1-ce.
+3. No arquivo `fallout2.cfg`, confira se o idioma está configurado como
+   `language=brazilian`.
+4. Abra o arquivo `mods_order.txt`, na pasta `mods`, e remova o ponto e
+   vírgula antes de `fo1_lang_brazilian`.
+
+O jogo carrega os mods na ordem em que estão listados no `mods_order.txt`.
 
 ## Quer contribuir com a tradução?
 
