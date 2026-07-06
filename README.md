@@ -30,7 +30,10 @@ Regra que o programa usa: **no `pt.msg`, uma fala idêntica ao inglês = ainda
 pendente.** Assim que você troca o texto, ela passa a contar como traduzida.
 Nada de marcador estranho — você traduz "por cima" do inglês.
 
-Estado atual: **~75,6% traduzido** (31.774 falas prontas, 10.270 ainda em inglês).
+Estado atual: **~95% traduzido** (39.561 falas prontas). As ~2.483 falas
+restantes que aparecem como pendentes **não precisam de tradução** — são
+nomes próprios, onomatopeias e afins (ex.: "Pik! Pik!") que ficam iguais em
+português.
 
 ## O dia a dia
 
